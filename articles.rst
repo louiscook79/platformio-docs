@@ -22,6 +22,7 @@ Here are recent articles/reviews about PlatformIO:
 
 2018
 ^^^^
+* Aug 13, 2018 - **Timesdigit** - `Top 5 Best IoT (Internet of Things) Development Tools <https://www.timesdigit.com/best-iot-development-tools.html>`_
 
 * Jul 3, 2018 - **Andreas Schmidt** - `IoT for web developers: From zero to firmware, Part II <https://jaxenter.com/iot-web-developers-part-two-145815.html>`_
 * Jun 22, 2018 - **Andreas Schmidt** - `IoT for web developers, Part I <https://jaxenter.com/iot-web-developers-part-one-145802.html>`_
